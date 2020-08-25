@@ -1,0 +1,10 @@
+C:\Users\hancom\source\repos\MyCSharpApp\bin\Debug\MyCSharpApp.exe.config
+C:\Users\hancom\source\repos\MyCSharpApp\bin\Debug\MyCSharpApp.exe
+C:\Users\hancom\source\repos\MyCSharpApp\bin\Debug\MyCSharpApp.pdb
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.csprojAssemblyReference.cache
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.Form1.resources
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.Properties.Resources.resources
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.csproj.GenerateResource.cache
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.exe
+C:\Users\hancom\source\repos\MyCSharpApp\obj\Debug\MyCSharpApp.pdb
